@@ -1,2 +1,2 @@
-practical-machine-learning-hw-1
+exercise-quality-prediction
 ===============================
